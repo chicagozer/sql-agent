@@ -10,7 +10,7 @@ import (
 
 	yaml "gopkg.in/yaml.v2"
 
-	"github.com/chop-dbhi/sql-agent"
+	"github.com/chicagozer/sql-agent"
 
 	//_ "github.com/alexbrainman/odbc"
 	//_ "github.com/denisenkom/go-mssqldb"
