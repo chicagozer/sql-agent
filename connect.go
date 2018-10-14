@@ -9,7 +9,7 @@ import (
 )
 
 var (
-	MaxIdleConns    = 10
+	MaxIdleConns    = 0
 	MaxConnLifetime = 10 * time.Minute
 )
 
